@@ -1,11 +1,11 @@
 {
-    "name": "seagame/kafka-queue",
+    "name": "naravitchan/kafka-queue",
     "require": {
         "laravel/framework": "^8.12|^9.2"
     },
     "autoload": {
         "psr-4": {
-            "Seagame\\KafkaQueue\\": "src/"
+            "naravitchan\\KafkaQueue\\": "src/"
         }
     }
 }
