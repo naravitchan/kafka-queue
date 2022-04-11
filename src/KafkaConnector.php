@@ -3,7 +3,6 @@
 namespace Kafka;
 
 use Illuminate\Queue\Connectors\ConnectorInterface;
-use App\Queues\KafkaQueue;
 
 class KafkaConnector implements ConnectorInterface
 {
